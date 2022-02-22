@@ -154,6 +154,7 @@ export default function Home() {
                       alt={item.title}
                       minHeight={"240px"}
                       maxHeight={"299px"}
+                      objectFit={"cover"}
                       borderRadius={["0", "0", "8px"]}
                       height={["240px", "auto", "auto", "450px"]}
                     />
