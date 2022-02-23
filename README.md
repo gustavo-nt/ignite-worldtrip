@@ -1,34 +1,87 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <img src="https://github.com/gustavo-nt/ignite-worldtrip/blob/master/public/assets/logo/logo-desktop.png" alt="Worldtrip" />
+</p>
 
-## Getting Started
+<h1 align="center">
+    🚀 Worldtrip
+</h1>
+<p align="center">Desafio do Bootcamp Ignite sobre Chakra UI no Next.js</p>
 
-First, run the development server:
+<p align="center">
+  <img src="https://img.shields.io/badge/react%20version-16.13.1-informational"/>
+  <img src="https://img.shields.io/badge/score-10.00-important" />
+  <img src="https://img.shields.io/badge/last%20commit-november-blue" />
+  <img src="https://img.shields.io/badge/license-MIT-success"/>
+</p>
+
+<p align="center">
+  <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-pré-requisitos">Pré-Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-rodando-a-aplicação-web">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Lincença</a>
+</p>
+
+<h3 align="center"> 
+🚧  Finalizado  🚧
+</h3>
+
+### 📎 Features
+
+- [x] Apresentação dos Continentes
+- [x] Apresentação de países
+- [x] Página do continente 
+
+### 💻 Projeto
+WordlTrip é uma aplicação de um site de viagens, demosntrando ao usuário os continentes "disponíveis", assim como uma breve apresentação dos mesmos, apresentando alguns países a qual compõe. Esse Projeto foi desenvolvido como desafio complementar da Semana 04 do Bootcamp Ignite.
+
+### 🖼 Demonstração
+<p>
+   <img src="" alt="Home"/>
+</p>
+
+### ⚙ Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e/ou [Yarn](https://https://yarnpkg.com/) 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+### 🎲 Rodando a Aplicação (web)
 
 ```bash
-npm run dev
-# or
-yarn dev
+# Clone este repositório
+$ git clone https://github.com/gustavo-nt/ignite-worldtrip
+
+# Instale as dependências
+$ yarn ou npm
+
+# Execute a aplicação
+$ yarn ou npm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 🚀 Tecnologias
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- Next.js
+- ReactJS
+- Typescript
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### 📕 Bibliotecas
 
-## Learn More
+Esse projeto foi utilizou das seguintes lib:
 
-To learn more about Next.js, take a look at the following resources:
+- styled-components
+- framer-motion
+- react-icons
+- chacka-ui
+- swiper
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 📝 Licença
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Esse projeto está sob a licença MIT.
 
-## Deploy on Vercel
+<hr/>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Feito por Gustavo Teixeira
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
