@@ -37,7 +37,7 @@ WordlTrip é uma aplicação de um site de viagens, demosntrando ao usuário os 
 
 ### 🖼 Demonstração
 <p>
-   <img src="" alt="Home"/>
+   <img src="https://github.com/gustavo-nt/ignite-worldtrip/blob/master/public/assets/home.png" alt="Home"/>
 </p>
 
 ### ⚙ Pré-requisitos
